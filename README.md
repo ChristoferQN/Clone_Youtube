@@ -10,7 +10,7 @@ Projeto de estudo para desenvolver habilidades de HTML e CSS, recriando a interf
 
 ## Demonstração
 
-![image](https://github.com/user-attachments/assets/df8ebfe7-1b76-42a6-8db5-7302ca6187cf)
+   ![image](https://github.com/user-attachments/assets/df8ebfe7-1b76-42a6-8db5-7302ca6187cf)
 
 ## Tecnologias Utilizadas
 
@@ -31,7 +31,6 @@ git clone https://github.com/ChristoferQN/Clone_Youtube.git
    
 ## Lições Aprendidas
     
- - [x] Entendimento sobre indentação de código.
  - [x] Melhoria no posicionamento de elementos usando Flexbox.
  - [x] Organização de arquivos e boas práticas de indentação.
  - [x] Entendimento inicial sobre design responsivo.
